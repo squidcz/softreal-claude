@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "softreal": {
+      "type": "http",
+      "url": "https://mcp.softreal.cz/"
+    }
+  }
+}

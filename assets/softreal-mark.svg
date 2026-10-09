@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-4 -18 100 100" role="img" aria-label="Softreal">
+  <g fill="#000000">
+    <path d="M22.4-0.1h5.9l-22.4,64H0L22.4-0.1z"/>
+    <path d="M41.7-0.1h5.9l-22.4,64h-5.9L41.7-0.1z"/>
+    <path d="M66.7,63.9l-22.4-64h5.9l22.4,64H66.7z"/>
+    <path d="M86,63.9l-22.4-64h5.9l22.4,64H86z"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+{
+  "name": "softreal",
+  "version": "0.1.0",
+  "description": "Připojí Clauda k MCP serveru Softrealu – čtení nabídek nemovitostí, poptávek a klientů, ke kterým má přihlášený uživatel přístup. Pouze čtení; nic nevytváří, nemění ani nemaže.",
+  "author": {
+    "name": "SQUID.CZ s.r.o.",
+    "url": "https://www.softreal.cz/"
+  },
+  "homepage": "https://www.softreal.cz/",
+  "license": "Proprietary",
+  "keywords": [
+    "softreal",
+    "real estate",
+    "reality",
+    "crm",
+    "mcp"
+  ]
+}

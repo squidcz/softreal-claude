@@ -1,0 +1,19 @@
+{
+  "name": "softreal",
+  "owner": {
+    "name": "SQUID.CZ s.r.o.",
+    "url": "https://www.softreal.cz/"
+  },
+  "metadata": {
+    "description": "Pluginy Softreal pro Claude."
+  },
+  "plugins": [
+    {
+      "name": "softreal",
+      "source": "./",
+      "description": "MCP konektor pro Softreal – čtení nabídek, poptávek a klientů.",
+      "version": "0.1.0",
+      "category": "productivity"
+    }
+  ]
+}
