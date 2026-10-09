@@ -7,6 +7,8 @@
     "url": "https://www.softreal.cz/"
   },
   "homepage": "https://www.softreal.cz/",
+  "privacyPolicyUrl": "https://mcp.softreal.cz/privacy#soukromi",
+  "icon": "./.claude-plugin/icon.png",
   "license": "Proprietary",
   "keywords": [
     "softreal",
